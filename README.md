@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinkmuli
 - 👀 I’m interested becoming a Quality Analyst
-- 🌱 I’m currently learning HTML, CSS, and GitHub
+- 🌱 I’m currently learning HTML, CSS, React, JavaScript, Cypress and GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kimjh0995@gmail.com
 
